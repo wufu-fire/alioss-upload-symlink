@@ -1,11 +1,11 @@
 {
   "name": "alioss-upload-symlink",
-  "version": "0.1.0",
+  "version": "0.1.6",
   "main": "dist/index.js",
   "module": "dist/alioss-upload-symlink.esm.js",
   "typings": "dist/index.d.ts",
   "bin": {
-    "oss-upload": "dist/"
+    "oss-publish": "dist/oss-publish.js"
   },
   "files": [
     "dist"
